@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  padding: 40px;
+}
+.todoContainer {
+  background-color: #fff;
+  border-radius: 30px;
+}
+h1 {
+  color: #ff8542;
+  text-align: center;
+  margin-top: 28px;
+}
